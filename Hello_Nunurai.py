@@ -8,3 +8,5 @@ Created on Wed Dec 11 11:07:33 2019
 # Just a scrap python file
 
 print('Hello Nunurai! Welcome to GitHub')
+
+print('Try completing your overall mass balance')
